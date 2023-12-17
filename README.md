@@ -1,3 +1,3 @@
 # riskz.github.io
 Dynamic Zombie Pathing maps accounting for zombie bugs plazmafield discovered
-https://MetalFanatic.riskz.github.io
+http://MetalFanatic.riskz.github.io
